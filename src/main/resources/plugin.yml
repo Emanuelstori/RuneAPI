@@ -1,0 +1,4 @@
+name: RFApi
+version: '${project.version}'
+main: com.rfapi.RFApi
+api-version: 1.19
